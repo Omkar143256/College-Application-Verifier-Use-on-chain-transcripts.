@@ -17,5 +17,7 @@ To eliminate fraudulent academic claims and streamline college application verif
 - Decentralized identity (DID) integration for verified student identities.
 - Multi-signature approvals from multiple authorities.
 
-## 5. Contract Address
-`SPXXXXXX.YYYYYY` *(Replace with actual deployed address after contract deployment)*
+## 5. Contract 
+- Contract Address- ST1GJABGN9SZ7WW8J8K06J3X9Y1ME7AHB8FSQSV9E.college-application-verifier
+
+<img width="2159" height="1439" alt="Screenshot 2025-08-12 145209" src="https://github.com/user-attachments/assets/d1dbbaa2-bcc5-4a85-990f-aae97a34b457" />
